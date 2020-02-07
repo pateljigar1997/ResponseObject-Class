@@ -1,5 +1,10 @@
 # ResponseObject-Class
 
+
+
+
+
+
  public class ResponseObject<T>
     {
         public string Status { get; set; }
