@@ -1,8 +1,3 @@
-# ResponseObject-Class
-
-
-
-
 
 
  public class ResponseObject<T>
